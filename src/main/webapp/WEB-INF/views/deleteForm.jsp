@@ -6,7 +6,7 @@
 <head>
 <meta charset="UTF-8">
 <title>글 삭제</title>
-<link rel="stylesheet" href="${pageContext.request.contextPath}/resources/css/style.css">
+<link rel="stylesheet" href="${pageContext.request.contextPath}/css/style.css">
 </head>
 <body>
 <div class="page-main">
